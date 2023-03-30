@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
         "state": {
           "branch": null,
-          "revision": "19b3c3ceed117c5cc883517c4e658548315ba70b",
-          "version": "1.6.0"
+          "revision": "95c18f1c1bc44d5547728621ed680850368f7a45",
+          "version": "1.7.0"
         }
       },
       {
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/vapor/jwt-kit.git",
         "state": {
           "branch": null,
-          "revision": "87ce13a1df913ba4d51cf00606df7ef24d455571",
-          "version": "4.7.0"
+          "revision": "ef12bdfa557cd9d9f0c53396e0a9908f773bcd7b",
+          "version": "4.9.0"
         }
       },
       {
@@ -69,16 +69,16 @@
         "repositoryURL": "https://github.com/apple/swift-crypto.git",
         "state": {
           "branch": null,
-          "revision": "92a04c10fc5ce0504f8396aac7392126033e547c",
-          "version": "2.2.2"
+          "revision": "da0fe44138ab86e380f40a2acbd8a611b07d3f64",
+          "version": "2.4.0"
         }
       },
       {
         "package": "TorusUtils",
-        "repositoryURL": "https://github.com/torusresearch/torus-utils-swift.git",
+        "repositoryURL": "https://github.com/defiq-dev/torus-utils-swift.git",
         "state": {
           "branch": null,
-          "revision": "902bf105ecfb5cb83dc1911692163289633316f5",
+          "revision": "465fbbf689818c1c96ab2cb26c0fcc4e1cfab63d",
           "version": "4.0.0"
         }
       },

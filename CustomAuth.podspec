@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.swift_version   = "5.3"
   spec.author       = { "Torus Labs" => "rathishubham017@gmail.com" }
   spec.module_name = "CustomAuth"
-  spec.source       = { :git => "https://github.com/torusresearch/customauth-swift-sdk.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/defiq-dev/customauth-swift-sdk.git", :tag => "master" }
   spec.source_files = "Sources/CustomAuth/*.{swift}","Sources/CustomAuth/**/*.{swift}"
   spec.dependency 'Torus-utils', '~> 4.0.0'
   spec.dependency 'JWTDecode', '~> 2.6'
