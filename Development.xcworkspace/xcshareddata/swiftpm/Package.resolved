@@ -75,10 +75,10 @@
       },
       {
         "package": "TorusUtils",
-        "repositoryURL": "https://github.com/torusresearch/torus-utils-swift.git",
+        "repositoryURL": "https://github.com/defiq-dev/torus-utils-swift.git",
         "state": {
           "branch": null,
-          "revision": "902bf105ecfb5cb83dc1911692163289633316f5",
+          "revision": "465fbbf689818c1c96ab2cb26c0fcc4e1cfab63d",
           "version": "4.0.0"
         }
       },
